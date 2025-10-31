@@ -1,4 +1,4 @@
-# Olá, eu sou o Gilberto 🙋
+# Olá, eu sou o Gilberto
 
 Sou tecnólogo em formação em Análise e Desenvolvimento de Sistemas, com MBA em Gestão Empresarial e formação em Direito. Atuo simultaneamente como professor de inglês e advogado autônomo e estou adentrando no universo da tecnologia com fascínio pelas possibilidades que ela pode criar e oferecer. Busco desenvolver habilidades e experiência como profissional de tecnologia para complementar e otimizar minha atuação profissional de uma maneira global. Tenho interesse em desenvolvimento de soluções digitais, metodologias ágeis e design de interfaces.
 
